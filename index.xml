@@ -1,0 +1,70 @@
+<?xml version = "1.0" ?>
+<?xml-stylesheet type = "text/css" href = "style.css" ?>
+    
+    
+    <Songlist> 
+        <Song>
+            <name>Bound 2</name>
+            <Artist>Kanye West</Artist>
+            <Genre>Hip Hop</Genre>
+            <Release>2013</Release>
+        </Song> 
+        <Song>
+            <name>Use this Gospel</name>
+            <Artist>Kanye West</Artist>
+            <Genre>Gospel</Genre>
+            <Release>2019</Release>
+        </Song> 
+        <Song>
+            <name>All Day</name>
+            <Artist>Kanye West</Artist>
+            <Genre>Rap</Genre>
+            <Release>2015</Release>
+        </Song> 
+        <Song>
+            <name>Champion</name>
+            <Artist>Kanye West</Artist>
+            <Genre>Hip Hop</Genre>
+            <Release>2008</Release>
+        </Song> 
+        <Song>
+            <name>Good life</name>
+            <Artist>Kanye West</Artist>
+            <Genre>Hip Hop</Genre>
+            <Release>2008</Release>
+        </Song> 
+        <Song>
+            <name>Don't Matter to Me</name>
+            <Artist>Drake</Artist>
+            <Genre>R/B</Genre>
+            <Release>2018</Release>
+        </Song> 
+        <Song>
+            <name>Started From the Bottom</name>
+            <Artist>Drake</Artist>
+            <Genre>Rap</Genre>
+            <Release>2013</Release>
+        </Song> 
+        <Song>
+            <name>Controlla</name>
+            <Artist>Drake</Artist>
+            <Genre>R/B</Genre>
+            <Release>2016</Release>
+        </Song> 
+        <Song>
+            <name>Hype</name>
+            <Artist>Drake</Artist>
+            <Genre>Rap</Genre>
+            <Release>2016</Release>
+        </Song> 
+        <Song>
+            <name>God's Plan</name>
+            <Artist>Drake</Artist>
+            <Genre>Hip Hop</Genre>
+            <Release>2018</Release>
+        </Song> 
+    </Songlist>
+        
+        
+        
+            
